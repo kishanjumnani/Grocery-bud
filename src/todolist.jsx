@@ -23,15 +23,7 @@ function Todolist(){
             setitemslist(updatelistdata);
             console.log(updatelistdata);  
     }
-    function handlechnagestyle(e,index){
-        const changelistdata=itemslist.map((ele,ind)=>{
-          
-      
-            
-          
-            
-        
-    }
+  
     return(
         <>
      
